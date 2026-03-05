@@ -2,6 +2,8 @@
 
 Built by **Drishya Lal Chuke** as part of the Gen AI Intern application for Wonder Group / Wedded Wonderland.
 
+Online Access: https://wedded-wonderland-ai-ihl9a2v6ywegqdt4bkp6uh.streamlit.app/
+
 ---
 
 ## What This App Does
